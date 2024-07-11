@@ -1,0 +1,15 @@
+{
+  "name": "khadreal/wp-playground",
+  "description": "Personal playground that has arrays of different code snippets",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "opeyemiibrahim",
+      "email": "opeyemi.khadri@gmail.com"
+    }
+  ],
+  "require": {
+    "kornrunner/blurhash": "^1.2"
+  }
+}
